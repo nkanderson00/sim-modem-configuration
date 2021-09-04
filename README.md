@@ -13,7 +13,7 @@ apt-get install libmbim-utils
 
 touch /etc/mbim-network.conf
 
-echo APN=Broadband > /etc/mbim-network.conf
+echo APN=(your provider's APN here) > /etc/mbim-network.conf
 
 
 
