@@ -21,4 +21,4 @@ echo APN=Broadband > /etc/mbim-network.conf
 
 echo PROXY=yes >> /etc/mbim-network.conf
 
-then run the script
+then run the script. You may need to change wwan0 and wdm0 to your specific device and interface name if it is different.
